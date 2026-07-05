@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ar_tem_00-r8mJ.aternos.me",
+    "ip": "FriendSmpServer.aternos.me",
     "port": 33882,
     "version": "1.21.8",
     "try-creative": false
