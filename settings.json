@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FriendSmpServer.aternos.me",
+    "ip": "blackbear.aternos.host:",
     "port": 33882,
     "version": "1.21.8",
     "try-creative": false
