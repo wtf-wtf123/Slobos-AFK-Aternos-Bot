@@ -1,13 +1,13 @@
-9{
+{
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Smet_kiborg",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "FriendSmpServer.aternos.me",
-    "port":33882,
+    "port": 33882,
     "version": "1.21.8",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
+      "enabled": true,
       "password": "chalol78"
     },
     "anti-afk": {
